@@ -1,0 +1,2 @@
+# scala
+Scala self learning
